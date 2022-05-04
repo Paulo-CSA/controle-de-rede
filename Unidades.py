@@ -126,7 +126,7 @@ while True:
     print('   <;=╦╤─ - - - - - - -')  
     opcao = input('   Escolha uma opção: ')
     os.system('cls')
-    print('UNIDADES REDE GOVERNO 3 ')
+    print('REDE DAS UNIDADES ')
     print(" ")
 
 
